@@ -6,7 +6,7 @@ description: >
 baseurl: ""
 url: "mathiasgallardo.github.io"
 fixedNav: 'true' # true or false
-theme: white # green, blue, orange, purple, grey
+theme: jekyll-theme-minimal
 dribbbleUsername:
 codepenUsername:
 

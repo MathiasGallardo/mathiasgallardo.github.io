@@ -1,14 +1,12 @@
 # Site settings
-title: Yen
-email: yenchenlin1994@gmail.com
+title: Mathias Gallardo
+# email: yenchenlin1994@gmail.com
 description: >
   This blog talks about how to make machine learn.
 baseurl: ""
-url: "http://yclin.me"
+url: "mathiasgallardo.github.io"
 fixedNav: 'true' # true or false
 theme: white # green, blue, orange, purple, grey
-twitterUsername: yenchenlin1994
-githubUsername: yenchenlin1994
 dribbbleUsername:
 codepenUsername:
 
